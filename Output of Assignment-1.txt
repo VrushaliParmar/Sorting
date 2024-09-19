@@ -1,0 +1,22 @@
+PS C:\Users\HP\Desktop\S.Y. Assignments> cd "c:\Users\HP\Desktop\S.Y. Assignments\" ; if ($?) { gcc Assignment-1.c -o Assignment-1 } ; if ($?) { .\Assignment-1 }
+
+Enter the number of elements: 5
+Enter the 5 elements of array:
+9
+3
+0
+85
+12
+
+Choose the sorting technique:
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+Enter your choice:1
+
+Array sorted using Bubble Sort:
+0
+3
+9
+12
+85
